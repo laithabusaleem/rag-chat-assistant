@@ -1,0 +1,4 @@
+The RAG chat assistant is a portfolio project by Laith. It can answer questions about documents using retrieval-augmented generation.
+
+This is an example document used to demonstrate retrieval.
+
